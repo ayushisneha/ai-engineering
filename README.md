@@ -1,2 +1,2 @@
 # AI-engineering
-Hands on AI Engineering - learning basics to productionizing system
+Hands on AI Engineering - learning basics to system productionization
