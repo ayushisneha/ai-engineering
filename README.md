@@ -13,3 +13,6 @@ Hands on AI Engineering - learning basics to system productionization
 - semaphore
 - async db
 - miniproject - async dashboard API
+
+## FastAPI
+
