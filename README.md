@@ -11,3 +11,5 @@ Hands on AI Engineering - learning basics to system productionization
 - error-handling
 - context-manager
 - semaphore
+- async db
+- miniproject - async dashboard API
